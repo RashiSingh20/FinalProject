@@ -1,0 +1,9 @@
+{
+	"name": "ADFProjectDataFactory2001",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2f29f91-4973-40b9-b71e-189aefeee98a",
+		"tenantId": "072e47e3-d4ce-4e2c-87e1-07e265159ba5"
+	}
+}
